@@ -27,6 +27,6 @@ I like this restaurant because me and my friends used to go there and spent good
 
 ---
 # Favorite Quotes
-> Man is made by his belief. As he believes, so he is. *Bhagavad Gita*
+> Man is made by his belief. As he believes, so he is. *(Bhagavad Gita)*
 >
-> Don't waste your time with explanations: people only hear what they want to hear. *Paulo Coelho*
+> Don't waste your time with explanations: people only hear what they want to hear. *(Paulo Coelho)*
