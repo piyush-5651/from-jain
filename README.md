@@ -13,3 +13,6 @@ I like this restaurant because me and my friends used to go there and spent good
 * Qutum Minar
 * Humayun Tomb
 * India Gate
+
+## Read about my Profile
+[Check Out Git Profile](https://github.com/piyush-5651/from-jain/blob/main/MyMedia.md)
