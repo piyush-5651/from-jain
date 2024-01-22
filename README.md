@@ -24,3 +24,9 @@ I like this restaurant because me and my friends used to go there and spent good
 | THE CITY INSIDE (Book)  | The book perfectly articulates the foreboding in the current political and social climate of India.  | Samit Basu |
 | World Without End (Book)  | War Drama  | Ken Follett |
 | Kubernetes: Up and Running (Book)  | This is a technical book, K8s in latest technology in Software Artchiture.  | Brendan Burns, Joe Beda, Kelsey Hightower |
+
+---
+# Favorite Quotes
+> Man is made by his belief. As he believes, so he is. *Bhagavad Gita*
+>
+> Don't waste your time with explanations: people only hear what they want to hear. *Paulo Coelho*
