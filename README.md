@@ -30,3 +30,14 @@ I like this restaurant because me and my friends used to go there and spent good
 > Man is made by his belief. As he believes, so he is. *(Bhagavad Gita)*
 >
 > Don't waste your time with explanations: people only hear what they want to hear. *(Paulo Coelho)*
+
+---
+# Code Fencing
+This code to Finds the difference between two lists.
+``` dart
+List difference(Iterable a, Iterable b) {
+  final s = b.toSet();
+  return a.where((x) => !s.contains(x)).toList();
+}
+```
+[Code Source](https://code.pieces.app/collections/dart)
